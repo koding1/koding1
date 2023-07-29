@@ -2,7 +2,7 @@
 - Undergraduate student, Sejong Univ., South Korea     
 - Currently working as a MySQL DBA in Kakao., South Korea (2022.12 ~)      
 
-## - 🌱 I’m currently learning
+### - 🌱 I’m currently learning
 <div align="center">
 	<br>
 </div>
@@ -24,7 +24,7 @@
 
 </div>
 
-## - 📫 How to reach me:
+### - 📫 How to reach me:
 
 <div align="center">
 
