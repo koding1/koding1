@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Undergraduate student, Sejong Univ., South Korea     
-- Currently working as a MySQL DBA in Kakao., South Korea (2022.12 ~)      
+- Currently working as a MySQL DBA in Kakao (2022.12 ~)      
 
 ### I’m currently learning 🌱
 <div align="center">
